@@ -5,7 +5,7 @@ In this repository you will find examples of use cases, written in golang.
 
 ### Pre-requisite 📋
 
-Have golang version 1.15 installed ^ 
+Have golang version 1.15^ installed 
 
 ## Construido con 🛠️
 
